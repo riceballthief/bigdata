@@ -6,5 +6,4 @@
 - import --> come in
 - export --> exit
 - ctrl-d --> you're free!
-
-
+- migrate --> move your fat ass
