@@ -26,3 +26,9 @@
 - yes --> good job, gold star, yay
 - good --> continue doing this good thing that you're doing
 - come'ere --> get over here
+
+
+# Proposed Commands
+Do you have a punny command? If it's good I'll work with Data to integrate it into her language service. She is continuously integrating these into her understanding.
+
+- consent
