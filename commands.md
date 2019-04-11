@@ -1,6 +1,6 @@
 # A list of Data commands
 
-- repl --> look at me 
+- repl --> look at me, always paying attention (Read Eval Print loop)
 - consume --> eat
 - return --> come back
 - import --> come in
@@ -17,3 +17,4 @@
 - follow --> back up so shoulder is parallel to you
 - couchez --> lay down (from coucher [FR]) 
 - asseyez --> sit (from asseoir [FR])
+- slay --> go chase the shiny thing
