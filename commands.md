@@ -27,6 +27,7 @@
 - good --> continue doing this good thing that you're doing
 - come'ere --> get over here
 - kiss --> licks you in the face
+- chill out --> lays down on her side, head on the ground
 
 
 # Proposed Commands
