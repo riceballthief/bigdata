@@ -6,8 +6,8 @@
 - stay --> stay
 - consume --> eat
 - return --> come back
-- import --> come in
-- export --> exit
+- import --> come in, enter an area
+- export --> exit, leave an area
 - ctrl-d --> you're free!
 - migrate --> move your fatass
 - ignore --> leave it
@@ -26,9 +26,10 @@
 - yes --> good job, gold star, yay
 - good --> continue doing this good thing that you're doing
 - come'ere --> get over here
+- kiss --> licks you in the face
 
 
 # Proposed Commands
-Do you have a punny command? If it's good I'll work with Data to integrate it into her language service. She is continuously integrating these into her understanding.
+Do you have a punny command, or a punny replacement to one of her non-pun commands? If it's good I'll work with Data to integrate it into her language service. She is continuously integrating these into her understanding.
 
-- consent
+- consent --> ask for permission before doing a thing (like crotch checking)
