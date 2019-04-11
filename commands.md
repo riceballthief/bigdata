@@ -9,8 +9,8 @@
 - migrate --> move your fatass
 - ignore --> leave it
 - fetch --> go get a thing
-- # --> touch my fist with your nose please
-- ! --> belly up
+- "#"--> touch my fist with your nose please
+- "!" --> belly up
 - roll --> rolls over on back
 - high five --> high fives you
 - back it up --> moon walks backwards
